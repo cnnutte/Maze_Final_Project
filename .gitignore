@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap
+Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset
